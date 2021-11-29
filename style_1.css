@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.box {
+    width: 20%;
+    padding: 2%;
+    margin-bottom: 5px;
+}
+
+.boxx {
+    width: 10%;
+    padding: 1.5%;
+}
+
+.img {
+    width: 100%;
+}
